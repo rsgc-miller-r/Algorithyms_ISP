@@ -23,8 +23,8 @@
 		81064A101C130A10007ED524 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		81064A121C130A10007ED524 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81064A1B1C132DA2007ED524 /* Sketch.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sketch.swift; sourceTree = "<group>"; };
-		8134E7921C14CD5700EC4523 /* CanvasTestArea.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CanvasTestArea.playground; sourceTree = "<group>"; };
 		8134E7931C14CD7400EC4523 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Helper.swift; path = ../CanvasTestArea.playground/Sources/Helper.swift; sourceTree = "<group>"; };
+		B2643E861C1B1D950033B2CB /* FUNKtion_Machine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FUNKtion_Machine.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,7 +41,7 @@
 		810649FD1C130A10007ED524 = {
 			isa = PBXGroup;
 			children = (
-				8134E7921C14CD5700EC4523 /* CanvasTestArea.playground */,
+				B2643E861C1B1D950033B2CB /* FUNKtion_Machine.playground */,
 				81064A081C130A10007ED524 /* Animation */,
 				81064A071C130A10007ED524 /* Products */,
 			);
